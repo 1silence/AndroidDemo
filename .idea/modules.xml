@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Demo\AndroidDemo\MyAndroidDemo-master\MyAndroidDemo.iml" filepath="D:\Demo\AndroidDemo\MyAndroidDemo-master\MyAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidDemo-master.iml" filepath="$PROJECT_DIR$/MyAndroidDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Demo\AndroidDemo\MyAndroidDemo-master\app\app.iml" filepath="D:\Demo\AndroidDemo\MyAndroidDemo-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
